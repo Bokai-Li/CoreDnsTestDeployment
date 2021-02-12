@@ -1,0 +1,2 @@
+Feb 4 17:36:57 client-pod curl curl: (6) Could not resolve host: test-service2
+Feb 4 17:37:27 client-pod curl curl: (6) Could not resolve host: test-service2

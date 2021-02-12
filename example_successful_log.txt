@@ -1,0 +1,8 @@
+Feb 12 14:00:03 client-pod curl  Hello from test-deployment-5486f68b58-596k8
+Feb 12 14:00:33 client-pod curl  Hello from test-deployment-5486f68b58-8hx6m
+Feb 12 14:01:03 client-pod curl  Hello from test-deployment-5486f68b58-8hx6m
+Feb 12 14:01:33 client-pod curl  Hello from test-deployment-5486f68b58-6jzcn
+Feb 12 14:02:03 client-pod curl  Hello from test-deployment-5486f68b58-6jzcn
+Feb 12 14:02:33 client-pod curl  Hello from test-deployment-5486f68b58-596k8
+Feb 12 14:03:03 client-pod curl  Hello from test-deployment-5486f68b58-6jzcn
+Feb 12 14:03:33 client-pod curl  Hello from test-deployment-5486f68b58-8hx6m
